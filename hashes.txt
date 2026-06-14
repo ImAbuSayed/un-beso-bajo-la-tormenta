@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Un beso bajo la tormenta
+
+This log tracks the cryptographic history and versioning for the song **Un beso bajo la tormenta** (un-beso-bajo-la-tormenta).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-14T14:29:21.079963 | `v1` | `9efd6a8c2ea26ade5d80b99ea5a529c103d64f4f87d2ecc1bff16d0e4cdb4a54` | `f2ed271b6ed57f09ad082c5a30725a29b89ad853f0200266c00db2e108b8f00b` | `2026-06-14_un-beso-bajo-la-tormenta-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

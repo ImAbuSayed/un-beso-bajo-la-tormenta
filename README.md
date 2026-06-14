@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/un-beso-bajo-la-tormenta/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Un beso bajo la tormenta](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-beso-bajo-la-tormenta/) |
+| **Get License** | [Get a Licensing Quote for Un beso bajo la tormenta](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-beso-bajo-la-tormenta/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `9efd6a8c2ea26ade5d80b99ea5a529c103d64f4f87d2ecc1bff16d0e4cdb4a54` |
 | **Timestamp** | June 14, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
