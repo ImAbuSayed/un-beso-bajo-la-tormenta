@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/un-beso-bajo-la-tormenta/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Un beso bajo la tormenta](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-beso-bajo-la-tormenta/) |
+| **Get License** | [Commercial Licensing for Un beso bajo la tormenta](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-beso-bajo-la-tormenta/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> La noche está fría, pero tú me quemas,
+> Un beso bajo la tormenta, baby, no hay problemas.
+> Tus labios saben a peligro y a ron,
+> You got me hooked, eres mi adicción.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
